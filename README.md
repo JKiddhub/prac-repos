@@ -20,4 +20,9 @@ Issueと連携させるには＃１と書く。
 
 @JKiddhub
 
+### issueが終わったことにする。
+
+コミットタイトルに fixed #1 で始める
+
+fixed 以外は fix fixes close closes closed resolve resolves resolved など。
 
